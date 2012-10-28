@@ -2,8 +2,10 @@
 bin/
 data/
 dist/
+lib/
 logs/
 test-result/
 tmp/
 modules/
+conf/application.conf
 

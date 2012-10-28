@@ -4,3 +4,4 @@ require:
     - play
     - play -> crud
     - play -> secure
+    - play -> s3blobs 0.2
